@@ -1,6 +1,6 @@
 # banking-page
 
-# live demo link:   https://uk-spark.000webhostapp.com/index.php
+### live demo link: https://uk-spark.000webhostapp.com/index.php
 
 ## Sparks Foundation Internship Project : Basic Banking System
 A Web Application used to transfer money between 10 dummy users .
